@@ -1,2 +1,2 @@
 # Calculate the Power of a Number:
-### C++ Program to Calculate Power 
+### C++ Program to Calculate Power of 
