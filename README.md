@@ -2,4 +2,4 @@
 ### C++ Program to Calculate Power of a Number.
 
 ## Program Description: 
-### If you need to find the power of 
+### If you need to find the power of a number with any
