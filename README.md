@@ -1,2 +1,2 @@
-# PowerOfNum
-Calculate Power of a Number.
+# Calculate the Power of a Number:
+
